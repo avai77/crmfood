@@ -42,7 +42,6 @@ class Sidebar extends React.Component {
       >
         <div className="logo">
           <a
-            href="https://www.creative-tim.com"
             className="simple-text logo-mini"
           >
             <div className="logo-img">
